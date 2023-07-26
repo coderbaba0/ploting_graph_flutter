@@ -1,10 +1,11 @@
 # ploting_graph_flutter
 
-Ploting graph with vetor math and custom painter in flutter
+Ploting graph with vector math and custom painter in flutter
+![graphplot](https://github.com/coderbaba0/ploting_graph_flutter/assets/128967105/637abf63-a7f6-4304-a6b7-4c8fb9e4abb7)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just clone and learn about custom painter and vetor math for ploting a graph
 
 A few resources to get you started if this is your first Flutter project:
 
