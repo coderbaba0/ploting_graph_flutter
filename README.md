@@ -6,7 +6,7 @@ Ploting graph with vector math and custom painter in flutter
 ## Getting Started
 
 Just clone and learn about custom painter and vetor math for ploting a graph
-
+ for more: https://flutterfever.com/
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
