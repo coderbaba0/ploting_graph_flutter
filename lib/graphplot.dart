@@ -10,16 +10,13 @@ class GraphPlay extends StatefulWidget {
 class _GraphPlayState extends State<GraphPlay> with SingleTickerProviderStateMixin {
   late Animation<double> animation;
   late AnimationController controller;
-
   @override
   void initState() {
     super.initState();
-
     controller = AnimationController(
         vsync: this, duration: Duration(milliseconds: 3143));
     animation = Tween(begin: 0.0, end: 1.0).animate(
         CurvedAnimation(parent: controller, curve: Interval(0.0, 1.0)));
-
     controller.addListener(() {
       setState(() {});
     });
